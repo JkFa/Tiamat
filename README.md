@@ -1,5 +1,61 @@
 # Tiamat 
 
+Requirements
+Installation
+Usage
+License
+Requirements
+Before running the program, you need to have the following libraries installed:
+Python 3.x
+Tkinter (usually included with Python)
+PyPDF2
+gTTS
+pygame
+Install the libraries:
+bash
+pip install PyPDF2 gTTS pygame
+
+Installation:
+Clone the repository or download the ZIP file of the project.
+bash
+git clone https://github.com/your_username/pdf_reader_voice.git
+
+Navigate to the project directory:
+bash
+cd pdf_reader_voice
+
+Run the program:
+bash
+python pdf_reader.py
+
+Usage:
+
+(a) Select a PDF file:
+Click the "Select PDF" button and choose the PDF file you want to read.
+(b) Read the PDF:
+Click the "Read PDF" button to extract the text from the PDF. A confirmation message will be displayed if the text is successfully extracted.
+(c) Start reading aloud:
+
+Click the "Start Reading" button to listen to the content of the PDF aloud. You can choose the reading language (Portuguese, English, French, or German) from the dropdown menu.
+
+Contribution
+
+Contributions are welcome!
+
+If you would like to contribute to this project, please follow these steps:
+Fork the repository.
+Create a new branch for your feature or bug fix:
+bash
+git checkout -b my-feature
+
+Make your changes and commit:
+bash
+git commit -m "Add new feature"
+
+Push to the remote repository:
+bash
+git push origin my-feature
+
 Índice
 
 1. Requisitos
