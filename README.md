@@ -18,7 +18,7 @@ pip install PyPDF2 gTTS pygame
 Installation:
 Clone the repository or download the ZIP file of the project.
 bash
-git clone https://github.com/your_username/pdf_reader_voice.git
+git clone https://github.com/JkFa/Tiamat.git
 
 Navigate to the project directory:
 bash
